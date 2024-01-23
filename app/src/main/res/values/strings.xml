@@ -1,0 +1,40 @@
+<!-- Copyright 2023 Google LLC
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="app_name">Balık Türleri</string>
+    <string name="action_go">Bul</string>
+    <string name="action_try">Hemen Başla</string>
+
+    <!-- Menu strings -->
+    <string name="menu_summarize_title">Generate text from text-only input</string>
+    <string name="menu_summarize_description">Sample app that summarizes text</string>
+    <string name="menu_reason_title">resimleri girmeye başlayın</string>
+    <string name="menu_reason_description">fotoğraf yükle ve soru sormaya başla</string>
+    <string name="menu_chat_title">Build multi-turn conversations (chat)</string>
+    <string name="menu_chat_description">Sample app demonstrating a conversational UI</string>
+
+    <!-- Summarize sample strings -->
+    <string name="summarize_label">Text</string>
+    <string name="summarize_hint">Enter text to summarize</string>
+
+    <!-- Photo Reasoning sample strings -->
+    <string name="reason_label">Soru Sor</string>
+    <string name="reason_hint">yuklenen fotografla ilgili soru sor</string>
+    <string name="add_image">Resim Ekle</string>
+
+    <!-- Chat sample strings -->
+    <string name="chat_label">Message</string>
+    <string name="action_send">Send</string>
+</resources>
